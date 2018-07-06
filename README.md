@@ -1,9 +1,6 @@
 # RRT-path-planning-with-OpenGL-simulator
 This project heavily depends on the open code: https://github.com/RoboJackets/rrt
-<<<<<<< HEAD
 
-对原有代码的接口进行了修改，从qt改为了opengl显示，增加了一些三维的显示与修改操作。
-=======
 The RRT algorithm is totally from https://github.com/RoboJackets/rrt. We just write a simulator in OpenGL to test the RRT algorithm.
 
 Some modification:
@@ -15,6 +12,5 @@ Some modification:
 3. Add some chineses comments in some code.
 
 对原有代码的接口进行了修改，增加了一些三维的显示与修改操作。
->>>>>>> 22f796f266639fb20249f1c57c7ccf649b904fd5
 
 部分文件进行了简单的删减，算法保留了作者的方法。
